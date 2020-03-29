@@ -1,0 +1,122 @@
+
+*{
+    margin:0;
+    padding:0
+}
+.img {
+     background-image:url('adventure-blur-close-up-346885.jpg');
+     height:730px;
+     width:100%;
+    
+    
+    background-size:cover;
+    overflow:hidden
+}
+.Menu{
+ 
+display:inline-block;
+height: 30px;
+margin:10px 0 0  0 ;
+padding: 12px;
+overflow:hidden;
+
+}
+.Menu_2{
+   
+width: 80%;
+background-color: #00000085;
+margin: 0 0 0 140px;
+
+}
+.Con_Menu{
+    font-family: Berlin Sans FB;
+font-size: 25px;
+color: rgb(29, 58, 85);
+float: left;
+padding:18px
+}
+.Con_Menu:hover{
+    color:rgba(155, 152, 131, 0.91);
+    
+}
+
+.h1{
+    font-family: Berlin Sans FB;
+color: rgb(29, 58, 85); 
+font-weight: 200;
+margin: -72px 0 0 123px;
+text-shadow: 0 0 5px;
+}
+.p{
+    font-family:Berlin Sans FB;
+    text-align:justify;
+   color: rgb(29, 58, 85);
+    height:500px;
+    width:400px;
+    font-size:21px;
+    margin: -464px 0 0 815px
+}
+.Des{
+    background-image:url('blur-colors-folded-793088.jpg');
+    height:700px;
+    width:100%;
+    background-size:cover;
+    margin:-36px 0 0 0px
+}
+.Dev_Con{
+    height: 699px;
+width: 500px;
+background-color: rgba(226, 219, 219, 0.53);
+margin:0 0 0 80px
+}
+.Travel{
+    background-image:url(activity-adventure-blur-297642.jpg);
+     height:700px;
+    width:100%;
+    background-size:cover
+
+}
+.Travel_Con{
+      height: 699px;
+width: 500px;
+background-color: rgba(34, 49, 68, 0.38);
+margin: 0 0 0 701px;
+}
+.Label1{
+    font-family:Berlin Sans FB;
+    font-size:25px;
+    
+}
+.Test{
+    background-image:url(image-04.jpg)  ; 
+
+overflow:hidden   ;
+height: 675px;
+background-size: contain;
+width:100%
+}
+.Test_con{
+    width:400px;
+    height:35%;
+    background-color:black;
+    margin:168px 24px; 
+    float:left;
+    border-color:white;
+    padding-top:80px;
+    padding-bottom:80px;
+     background-color: #0000006b;
+    
+}
+
+#a:link{
+  color:rgba(78, 71, 71, 0.99);
+
+}
+.h2{
+   font-family: Berlin Sans FB;
+color: rgb(29, 58, 85); 
+font-weight: 200;
+padding: 45px;
+text-align: center;
+}
+
